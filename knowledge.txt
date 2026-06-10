@@ -1,0 +1,11 @@
+Le machine learning supervisé consiste à apprendre une relation entre des variables d'entrée et une cible.
+
+La classification prédit une classe.
+La régression prédit une valeur continue.
+
+Le surapprentissage apparaît quand le modèle mémorise trop les données d'entraînement et généralise mal.
+
+La validation croisée permet d'évaluer plus robustement les performances d'un modèle.
+
+Un modèle de régression peut être évalué avec MAE, RMSE et R².
+Un modèle de classification peut être évalué avec accuracy, precision, recall et F1-score.
